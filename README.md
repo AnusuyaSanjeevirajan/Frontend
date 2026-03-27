@@ -29,3 +29,11 @@ A simple task manager to add, delete, and manage daily tasks.
 ---
 
 ## 📂 Project Structure
+│── calculator.html
+│── todolist.html
+---
+🙋‍♀️ Author
+
+Ansi
+Beginner Web Developer 🚀
+---
